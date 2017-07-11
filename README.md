@@ -1,1 +1,4 @@
-# temptest
+# Tech Test
+
+
+    npm start
